@@ -1,0 +1,1 @@
+{"view_args": {"catchall": "squid-internal-mgr/cachemgr.cgi"}, "url": "http://142.93.53.4:4243/squid-internal-mgr/cachemgr.cgi", "headers": [["Host", "142.93.53.4:4243"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "161.35.236.158", "data": ""}

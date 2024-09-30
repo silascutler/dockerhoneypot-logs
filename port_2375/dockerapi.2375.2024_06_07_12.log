@@ -1,0 +1,2 @@
+{"view_args": {"catchall": "version"}, "url": "http://142.93.53.4:2375/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "docker-sdk-python/7.0.0"], ["Accept-Encoding", "gzip, deflate"], ["Accept", "*/*"], ["Connection", "keep-alive"]], "method": "GET", "source": "45.128.232.22", "data": ""}
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:2375/v1.16/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "114.132.96.197", "data": ""}

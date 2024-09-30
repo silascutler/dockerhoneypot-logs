@@ -1,0 +1,4 @@
+{"view_args": {"catchall": "version"}, "url": "http://142.93.53.4/version", "headers": [["Host", "142.93.53.4"]], "method": "GET", "source": "64.62.197.17", "data": ""}
+{"view_args": {}, "url": "http://142.93.53.4:2375/", "headers": [["Host", "142.93.53.4:2375"]], "method": "GET", "source": "167.94.146.51", "data": ""}
+{"view_args": {}, "url": "http://142.93.53.4:2375/", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "167.94.146.51", "data": ""}
+{"view_args": {"catchall": "favicon.ico"}, "url": "http://142.93.53.4:2375/favicon.ico", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"], ["Accept-Encoding", "gzip"], ["Connection", "close"]], "method": "GET", "source": "167.94.146.51", "data": ""}

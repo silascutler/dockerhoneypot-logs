@@ -1,0 +1,2 @@
+{"view_args": {}, "url": "http://142.93.53.4/", "headers": [["Host", "142.93.53.4"]], "method": "GET", "source": "81.209.179.150", "data": ""}
+{"view_args": {"catchall": "favicon.ico"}, "url": "http://142.93.53.4/favicon.ico", "headers": [["Host", "142.93.53.4"]], "method": "GET", "source": "81.209.179.150", "data": ""}

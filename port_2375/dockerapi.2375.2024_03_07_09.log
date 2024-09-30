@@ -1,0 +1,2 @@
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:2375/v1.16/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "34.174.225.140", "data": ""}
+{"view_args": {"catchall": "info"}, "url": "http://142.93.53.4:2375/info", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "go-resty/2.10.0 (https://github.com/go-resty/resty)"], ["Connection", "close"], ["Range", "bytes=0-10240"]], "method": "GET", "source": "45.148.120.221", "data": ""}

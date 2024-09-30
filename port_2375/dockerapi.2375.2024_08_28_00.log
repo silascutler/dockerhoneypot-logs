@@ -1,0 +1,2 @@
+{"view_args": {"catchall": "info"}, "url": "http://localhost/info", "headers": [["Host", "localhost"]], "method": "GET", "source": "209.38.25.178", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [["User-Agent", "Peach/1.01 (Ubuntu 8.04 LTS; U; en)"], ["Accept", "*/*"]], "method": "GET", "source": "80.82.70.133", "data": ""}

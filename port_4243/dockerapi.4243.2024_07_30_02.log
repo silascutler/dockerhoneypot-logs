@@ -1,0 +1,1 @@
+{"view_args": {"catchall": ".git/config"}, "url": "http://142.93.53.4:4243/.git/config", "headers": [["Host", "142.93.53.4:4243"], ["User-Agent", "Go-http-client/1.1"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "106.75.157.47", "data": ""}

@@ -1,0 +1,7 @@
+{"view_args": {"catchall": "version"}, "url": "http://0.0.0.0:2375/version", "headers": [], "method": "GET", "source": "172.104.4.17", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [], "method": "GET", "source": "172.104.4.17", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [], "method": "OPTIONS", "source": "172.104.4.17", "data": ""}
+{"view_args": {"catchall": "version"}, "url": "http://142.93.53.4:2375/version", "headers": [["Host", "142.93.53.4:2375"], ["Connection", "close"], ["User-Agent", "curl/7.54.0"]], "method": "GET", "source": "172.104.4.17", "data": ""}
+{"view_args": {}, "url": "http://www/", "headers": [["Host", "www"], ["Accept", "*/*"], ["User-Agent", "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"]], "method": "GET", "source": "172.104.4.17", "data": ""}
+{"view_args": {}, "url": "http://142.93.53.4:2375/_ping", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Docker-Client/20.10.21 (linux)"]], "method": "HEAD", "source": "124.74.110.230", "data": ""}
+{"view_args": {"catchall": "v1.24/containers/json"}, "url": "http://142.93.53.4:2375/v1.24/containers/json?all=1", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Go-http-client/1.1"]], "method": "GET", "source": "124.74.110.230", "data": ""}

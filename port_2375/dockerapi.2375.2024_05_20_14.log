@@ -1,0 +1,2 @@
+{"view_args": {"catchall": "version"}, "url": "http://0.0.0.0:2375/version", "headers": [], "method": "GET", "source": "212.83.8.79", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [], "method": "GET", "source": "212.83.8.79", "data": ""}

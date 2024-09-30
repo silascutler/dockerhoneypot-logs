@@ -1,0 +1,3 @@
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:4243/v1.16/version", "headers": [["Host", "142.93.53.4:4243"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "82.157.54.151", "data": ""}
+{"view_args": {}, "url": "http://142.93.53.4:4243/_ping", "headers": [["Host", "142.93.53.4:4243"], ["User-Agent", "Go-http-client/1.1"]], "method": "HEAD", "source": "82.157.54.151", "data": ""}
+{"view_args": {"catchall": "v1.24/info"}, "url": "http://142.93.53.4:4243/v1.24/info", "headers": [["Host", "142.93.53.4:4243"], ["User-Agent", "Go-http-client/1.1"]], "method": "GET", "source": "82.157.54.151", "data": ""}

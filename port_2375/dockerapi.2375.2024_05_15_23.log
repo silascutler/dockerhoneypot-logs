@@ -1,0 +1,2 @@
+{"view_args": {"catchall": "info"}, "url": "http://142.93.53.4:2375/info", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "13.91.180.110", "data": ""}
+{"view_args": {"catchall": "version"}, "url": "http://142.93.53.4:2375/version", "headers": [["Host", "142.93.53.4:2375"], ["Connection", "close"], ["User-Agent", "Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)"]], "method": "GET", "source": "185.242.226.22", "data": ""}

@@ -1,0 +1,1 @@
+{"view_args": {"catchall": "version"}, "url": "http://142.93.53.4:2375/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "docker-sdk-python/7.0.0"], ["Accept-Encoding", "gzip, deflate"], ["Accept", "*/*"], ["Connection", "keep-alive"]], "method": "GET", "source": "67.205.170.95", "data": ""}

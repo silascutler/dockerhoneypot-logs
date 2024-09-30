@@ -1,0 +1,2 @@
+{"view_args": {"catchall": "version"}, "url": "http://142.93.53.4:2375/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "198.199.114.75", "data": ""}
+{"view_args": {"catchall": "info"}, "url": "http://localhost/info", "headers": [["Host", "localhost"]], "method": "GET", "source": "45.67.13.251", "data": ""}

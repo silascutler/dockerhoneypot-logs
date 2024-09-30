@@ -1,0 +1,2 @@
+{"view_args": {"catchall": "info"}, "url": "http://localhost/info", "headers": [["Host", "localhost"]], "method": "GET", "source": "91.92.255.163", "data": ""}
+{"view_args": {"catchall": "version"}, "url": "http://142.93.53.4:2375/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "docker-sdk-python/7.1.0"], ["Accept-Encoding", "gzip, deflate"], ["Accept", "*/*"], ["Connection", "keep-alive"]], "method": "GET", "source": "91.92.255.163", "data": ""}

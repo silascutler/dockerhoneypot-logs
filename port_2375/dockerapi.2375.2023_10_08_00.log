@@ -1,0 +1,3 @@
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:2375/v1.16/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "1.117.91.115", "data": ""}
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:2375/v1.16/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "116.171.219.103", "data": ""}
+{"view_args": {}, "url": "http://142.93.53.4:2375/_ping", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Docker-Client/20.10.17 (linux)"]], "method": "HEAD", "source": "116.171.219.103", "data": ""}

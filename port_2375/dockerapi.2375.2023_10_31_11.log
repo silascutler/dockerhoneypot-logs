@@ -1,0 +1,6 @@
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:2375/v1.16/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "36.134.84.205", "data": ""}
+{"view_args": {"catchall": "version"}, "url": "http://0.0.0.0:2375/version", "headers": [], "method": "GET", "source": "139.144.52.241", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [], "method": "GET", "source": "139.144.52.241", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [], "method": "OPTIONS", "source": "139.144.52.241", "data": ""}
+{"view_args": {"catchall": "version"}, "url": "http://142.93.53.4:2375/version", "headers": [["Connection", "close"], ["Host", "142.93.53.4:2375"], ["User-Agent", "curl/7.54.0"]], "method": "GET", "source": "139.144.52.241", "data": ""}
+{"view_args": {}, "url": "http://www/", "headers": [["Host", "www"], ["Accept", "*/*"], ["User-Agent", "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"]], "method": "GET", "source": "139.144.52.241", "data": ""}

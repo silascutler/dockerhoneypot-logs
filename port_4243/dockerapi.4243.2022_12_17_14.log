@@ -1,0 +1,3 @@
+{"view_args": {}, "url": "http://142.93.53.4:4243/", "headers": [["Host", "142.93.53.4:4243"]], "method": "GET", "source": "167.248.133.60", "data": ""}
+{"view_args": {}, "url": "http://142.93.53.4:4243/", "headers": [["Host", "142.93.53.4:4243"], ["User-Agent", "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "167.248.133.60", "data": ""}
+{"view_args": {"catchall": "favicon.ico"}, "url": "http://142.93.53.4:4243/favicon.ico", "headers": [["Host", "142.93.53.4:4243"], ["User-Agent", "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"], ["Accept-Encoding", "gzip"], ["Connection", "close"]], "method": "GET", "source": "167.248.133.60", "data": ""}

@@ -1,0 +1,2 @@
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:2375/v1.16/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "152.32.141.6", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [["User-Agent", "Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/5.0.1 Safari/533.17.8"], ["Accept", "*/*"]], "method": "GET", "source": "80.82.70.133", "data": ""}

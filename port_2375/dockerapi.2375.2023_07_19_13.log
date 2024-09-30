@@ -1,0 +1,5 @@
+{"view_args": {"catchall": "version"}, "url": "http://142.93.53.4/version", "headers": [["Host", "142.93.53.4"]], "method": "GET", "source": "65.49.1.38", "data": ""}
+{"view_args": {"catchall": "version"}, "url": "http://0.0.0.0:2375/version", "headers": [], "method": "GET", "source": "5.39.220.78", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [], "method": "GET", "source": "5.39.220.78", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [], "method": "OPTIONS", "source": "5.39.220.78", "data": ""}
+{"view_args": {"catchall": "images/json"}, "url": "http://142.93.53.4:2375/images/json", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "go-dockerclient"], ["Accept-Encoding", "gzip"], ["Connection", "close"]], "method": "GET", "source": "37.187.38.160", "data": ""}

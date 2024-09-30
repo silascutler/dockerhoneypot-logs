@@ -1,0 +1,3 @@
+{"view_args": {}, "url": "http://142.93.53.4:2375/_ping", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Docker-Client/20.10.21 (linux)"]], "method": "HEAD", "source": "39.108.68.127", "data": ""}
+{"view_args": {"catchall": "v1.24/containers/json"}, "url": "http://142.93.53.4:2375/v1.24/containers/json", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Go-http-client/1.1"]], "method": "GET", "source": "39.108.68.127", "data": ""}
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:2375/v1.16/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "121.42.10.239", "data": ""}

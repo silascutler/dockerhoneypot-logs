@@ -1,0 +1,6 @@
+{"view_args": {"catchall": "version"}, "url": "http://0.0.0.0:2375/version", "headers": [], "method": "GET", "source": "194.195.243.82", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [], "method": "GET", "source": "194.195.243.82", "data": ""}
+{"view_args": {}, "url": "http://0.0.0.0:2375/", "headers": [], "method": "OPTIONS", "source": "194.195.243.82", "data": ""}
+{"view_args": {"catchall": "nice ports,/Trinity.txt.bak"}, "url": "http://0.0.0.0:2375/nice%20ports%2C/Trinity.txt.bak", "headers": [], "method": "GET", "source": "194.195.243.82", "data": ""}
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:2375/v1.16/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "139.59.132.89", "data": ""}
+{"view_args": {"uid": "v1.16"}, "url": "http://142.93.53.4:2375/v1.16/version", "headers": [["Host", "142.93.53.4:2375"], ["User-Agent", "Mozilla/5.0 zgrab/0.x"], ["Accept", "*/*"], ["Accept-Encoding", "gzip"]], "method": "GET", "source": "106.13.96.71", "data": ""}
